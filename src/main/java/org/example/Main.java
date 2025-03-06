@@ -11,7 +11,7 @@ public class Main {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter your name :");
         String name=input.next();
-        System.out.println("hi" + name);
+        System.out.println("hi" + name + ", Welcome to Java");
 
     }
 }
